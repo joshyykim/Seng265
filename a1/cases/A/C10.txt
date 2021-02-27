@@ -1,0 +1,15 @@
+Count[01]=03;
+Count[02]=46;
+Count[03]=49;
+Count[04]=40;
+Count[05]=63;
+Count[06]=60;
+Count[07]=65;
+Count[08]=53;
+Count[09]=37;
+Count[10]=43;
+Count[11]=28;
+Count[12]=12;
+Count[13]=06;
+Count[14]=04;
+Count[15]=02;
